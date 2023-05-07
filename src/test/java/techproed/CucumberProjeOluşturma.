@@ -1,0 +1,4 @@
+-Cucumber projesi olusturmak istediğimizde yapmamız gereken adımlar:
+1-Öncelikle dependency leri pom.xml dosyamıza yüklememiz gerekir
+  (selenium-java,webdrivermanager,cucumber-java,cucumber-jUnit)
+2--Sonra file->setting
